@@ -1,16 +1,5 @@
 <?php
 
-// class jogador {
-//     public $usuario;
-//     public $pontos;
-
-//     public function __construct($usuario, $pontos) {
-//         $this->usuario = $usuario;
-//         $this->pontos = $pontos;
-//     }
-// }
-
-
 class Rank {
     public $jogadores;
 
