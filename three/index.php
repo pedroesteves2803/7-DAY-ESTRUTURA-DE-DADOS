@@ -1,6 +1,7 @@
 <?php
 
 //cria classe de produto
+
 class Produto{
     public $nome;
     public $codigoDeBarras;
