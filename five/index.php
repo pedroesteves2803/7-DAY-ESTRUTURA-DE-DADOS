@@ -62,16 +62,16 @@ class PilhaDeLivros{
 $pilhaDeLivros = new PilhaDeLivros(); //instancia pilha de livro
 
 //adiciona novos livros a pilha
-$pilhaDeLivros->adicionarNaPilha('Teste 1', 10);
-$pilhaDeLivros->adicionarNaPilha('Teste 2', 20);
-$pilhaDeLivros->adicionarNaPilha('Teste 3', 30);
-$pilhaDeLivros->adicionarNaPilha('Teste 4', 40);
+$pilhaDeLivros->adicionarNaPilha('Livro 1', 10);
+$pilhaDeLivros->adicionarNaPilha('Livro 2', 20);
+$pilhaDeLivros->adicionarNaPilha('Livro 3', 30);
+$pilhaDeLivros->adicionarNaPilha('Livro 4', 40);
 
 //lista todos os livros da pilha
 $pilhaDeLivros->listarPilha();
 
 //adiciona livro a pilha
-$pilhaDeLivros->adicionarNaPilha('Teste 5', 50);
+$pilhaDeLivros->adicionarNaPilha('Livro 5', 50);
 
 //lista todos os livros da pilha
 $pilhaDeLivros->listarPilha();
