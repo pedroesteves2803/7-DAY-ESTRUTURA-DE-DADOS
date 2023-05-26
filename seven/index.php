@@ -120,9 +120,7 @@ class ArvoreBinaria{
 }
 
 //Exemplo de uso
-
 $arvore = new ArvoreBinaria(); //Instancia uma nova Arvore binaria
-
 
 //Adiciona produto passando o id, nome e quantidade em estoque
 $arvore->adicionarProduto(10, 'Teste 10', 10);
@@ -137,7 +135,6 @@ $arvore->adicionarProduto(3, 'Teste 3', 3);
 $arvore->adicionarProduto(4, 'Teste 4', 4);
 $arvore->adicionarProduto(5, 'Teste 5', 5);
 $arvore->adicionarProduto(6, 'Teste 6', 6);
-
 
 //Busca produto por id
 $arvore->buscarProdutoPorId(60);
