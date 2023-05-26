@@ -16,9 +16,7 @@
 <br>
 <p>Dia 6. Hashmaps: Também conhecidos como tabelas de hash, são estruturas que armazenam pares de chave-valor. Eles usam uma função de hash para calcular a posição de armazenamento de cada elemento, permitindo acesso rápido aos valores por meio de suas chaves.</p>
 <br>
-<p>Dia 7. Árvores binárias: Uma estrutura de dados hierárquica em que cada nó tem no máximo dois filhos. Essa
-
- estrutura é usada em várias aplicações, como pesquisa e organização de dados.</p>
+<p>Dia 7. Árvores binárias: Uma estrutura de dados hierárquica em que cada nó tem no máximo dois filhos. Essa estrutura é usada em várias aplicações, como pesquisa e organização de dados.</p>
 <br>
 <p>No início deste documento, é importante mencionar que todo o trabalho realizado durante os #7DaysOfCode foi feito em PHP. O PHP é uma linguagem de programação amplamente utilizada para desenvolvimento web e possui uma ampla gama de recursos e funcionalidades para criação de sites dinâmicos e interativos.</p>
 <br>
